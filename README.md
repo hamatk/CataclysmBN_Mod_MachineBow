@@ -5,7 +5,7 @@ A mod by hamatk for the game Cataclysm Bright Nights. Adds a rare bow to the gam
 
 Place the gun_bow folder inside your game's mods folder.
 
-_For the ham_sounds folder..._
+<u>For the ham_sounds folder...</u>
 
 A) If you already have a sound pack you like to use, then open up the ham_sounds folder. Copy all the contents inside that folder EXCEPT for soundpack.txt, and paste them directly into your sound pack's folder.
 
