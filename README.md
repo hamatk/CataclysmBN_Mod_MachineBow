@@ -3,7 +3,7 @@ A mod by hamatk for the game Cataclysm Bright Nights. Adds a rare bow to the gam
 
 *Manual Installation instructions:*
 
-The gun_bow folder goes in your game's mods folder.
+Place gun_bow folder inside your game's mods folder.
 
 For the ham_sounds folder...
 
