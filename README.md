@@ -19,6 +19,6 @@ As for my code, do with it what you will - no credit necessary.
 
 **Acknowledgments**
 
-Thank you to the BN discord for patiently guiding me through making contributions to this game. Please bear with me as I continue to demonstrate peak technological illiteracy.
+Thank you to the BN discord for patiently guiding me through making contributions to this game. Please bear with me as I continue to impress with my technological illiteracy.
 
 Big thanks to the Horizon's Gate modding community for getting me started making mods! If you haven't played Horizon's Gate, it's an amazing game and I highly recommend it.
