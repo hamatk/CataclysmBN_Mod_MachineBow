@@ -1,6 +1,6 @@
 # CataclysmBN_Mod_MachineBow
 A mod by hamatk for the game Cataclysm Bright Nights. Adds a rare bow to the game that shoots bullets, complete with custom audio. Comes with 2 bonus, high-quality arrow impact sounds in the ham_sounds folder that are not used by this mod but may be implemented in your game however you wish.
-
+***
 **Manual Installation instructions:**
 
 Place the gun_bow folder inside your game's mods folder.
