@@ -15,8 +15,6 @@ B) If you DO NOT already have a sound pack you like to use, then take the entire
 
 Although my sounds may be used for any reason, please credit me when using them for anything other than personal enjoyment. I also take requests for custom-made sounds and music!
 
-As for my code, do with it what you will - no credit necessary.
-
 **Acknowledgments**
 
 Thank you to the BN discord for patiently guiding me through making contributions to this game. Please bear with me as I continue to impress with my technological illiteracy.
