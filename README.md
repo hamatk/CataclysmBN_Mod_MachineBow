@@ -13,7 +13,7 @@ B) If you DO NOT already have a sound pack you like to use, then take the entire
 
 **Permissions**
 
-Although my sounds may be used for any reason, please credit me when using them for anything other than personal enjoyment. I also take requests for custom-made sounds and music!
+Although my sounds may be used for any reason, please credit me when using them for anything other than personal enjoyment. (I also take requests for custom-made sounds and music!)
 
 **Acknowledgments**
 
