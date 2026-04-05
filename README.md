@@ -20,6 +20,5 @@ Although my sounds may be used for any reason, please credit me when using them 
 Thank you to the BN discord for patiently guiding me through making contributions to this game. Please bear with me as I continue to impress with my technological illiteracy.
 
 Big thanks to the Horizon's Gate modding community for getting me started making mods! If you haven't played Horizon's Gate, it's an amazing game and I highly recommend it.
-
-
+***
 **Support me on ko-fi** https://ko-fi.com/andrewhominem
