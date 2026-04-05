@@ -21,4 +21,4 @@ Thank you to the BN discord for patiently guiding me through making contribution
 
 Big thanks to the Horizon's Gate modding community for getting me started making mods! If you haven't played Horizon's Gate, it's an amazing game and I highly recommend it.
 
-**Support me on ko-fi** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andrewhominem
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andrewhominem
