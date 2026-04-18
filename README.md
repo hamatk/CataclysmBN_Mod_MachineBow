@@ -3,13 +3,13 @@ A mod by hamatk for the game [Cataclysm Bright Nights](https://github.com/catacl
 
 **Manual Installation instructions:**
 
-Place the gun_bow folder inside your game's mods folder.
+Place the gun_bow folder inside your game's mods folder, then enable the mod in the main menu.
 
 <u>For the ham_sounds folder...</u>
 
 A) If you already have a sound pack you like to use, then open up the ham_sounds folder. Copy all the contents inside that folder EXCEPT for soundpack.txt, and paste them directly into your sound pack's folder.
 
-B) If you DO NOT already have a sound pack you like to use, then take the entire ham_sounds folder and drop it into your game's sound folder.
+B) If you DO NOT already have a sound pack you like to use, then take the entire ham_sounds folder and drop it into your game's sound folder. Enable the sound pack in your game's settings.
 
 **Permissions**
 
